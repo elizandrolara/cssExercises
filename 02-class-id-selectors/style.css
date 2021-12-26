@@ -1,0 +1,18 @@
+/*style page*/
+.c-fontPk{
+    background-color: palevioletred;
+    font-family: Verdana, sans-serif;
+}
+.c-font24px{
+    font-size: 24px;
+}
+
+ #id-unique-text-bl{
+     color: blue;
+     font-size: 36px;
+}
+ #id-fontGn{
+     background-color: green;
+     font-size: 24px;
+     font: bold;
+}
